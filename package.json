@@ -1,8 +1,8 @@
 {
   "name": "configurationMs",
-  "private": true,
-  "version": "0.0.0",
-  "description": "a Sails application",
+  "private": false,
+  "version": "0.1.0",
+  "description": "micro service api de configuration madera",
   "keywords": [],
   "dependencies": {
     "ejs": "2.3.4",
